@@ -13,7 +13,6 @@ public class informaçoesUsuarioPageObjetiveTest {
     private WebDriver navegador;
     @Before
     public void setUp(){
-
         navegador = Web.createChrome();
     }
 
